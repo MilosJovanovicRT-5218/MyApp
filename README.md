@@ -1,1 +1,1 @@
-C#.NET App for Desktop
+C#.NET App for Windows
